@@ -1,5 +1,4 @@
-def call() {
+def call(message) {
 
-	echo 'it`s working'
-
+	echo {message}
 }
