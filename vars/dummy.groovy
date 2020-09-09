@@ -1,7 +1,5 @@
-def call(lvProjectPath, targetName, buildSpecName, lvVersion, lvBitness) {
-	def stepsDir = "${WORKSPACE}\\${BUILD_SYSTEM_REPO}\\steps"
-	def projectPath = "${WORKSPACE}\\${lvProjectPath}"
-		
+def call() {
+
 	echo 'it`s working'
 
 }
