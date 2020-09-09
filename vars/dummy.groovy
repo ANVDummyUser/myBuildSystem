@@ -1,4 +1,4 @@
 def call(message) {
 
-	echo '${message}'
+	echo "${message}"
 }
